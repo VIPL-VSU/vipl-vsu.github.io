@@ -11,7 +11,7 @@
   publisher: International Journal of Computer Vision
   date: '2025-06-27'
   link: https://doi.org/g9tsfz
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs11263-025-02499-z/MediaObjects/11263_2025_2499_Fig1_HTML.png?as=webp
+  image: images/11263_2025_2499_Fig1_HTML.jpg
   plugin: sources.py
   file: sources.yaml
 - id: 10.1109/LRA.2025.3557746
@@ -24,7 +24,7 @@
   publisher: IEEE Robotics and Automation Letters
   date: '2025-06-01'
   link: https://doi.org/g9tshm
-  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/7083369/10969146/10948321/chen1-3557746-large.gif
+  image: images/chen1-3557746-large.jpg
   plugin: sources.py
   file: sources.yaml
 - id: 10.1016/j.patrec.2025.01.015
