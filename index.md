@@ -3,7 +3,7 @@
 
 # VIPL-VSU's Website
 
-An engaging 1-3 sentence description of your lab.
+Our group focuses on comprehensive scene understanding to enable intelligent perception and understanding of natural visual environment in the open world. More specifically, we aim to propose a vision-based robot system that has the basic capability just like human visual processing system for real world visual scene understanding, mainly including perceptual tasks such as object detection, object recognition, semantic segmentation, scene classification, attribute learning, relationship extraction, and so on. To facilitate more advanced natural language based visual concept semantic description, the system can also incorporate language models and knowledge-based reasoning for cognitive tasks like image/video captioning (description) and visual question answering.
 
 {% include section.html %}
 
