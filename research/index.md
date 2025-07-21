@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Research topics of our group mainly cover three aspects: 1) Object recognition, e.g. zero-shot learning, incremental/life-long learning, image retrieval, image classification, etc. 2) Scene understanding, e.g. object detection/segmentation, scene classification, relationship detection, scene graph generation, etc., and 3) Language/knowledge-based cognition, e.g. image/video captioning (description), visual question answering, visual concept learning, knowledge graph, etc.
 
 {% include section.html %}
 
