@@ -10,6 +10,22 @@
   publisher: Pattern Recognition Letters
   date: '2025-11-01'
   link: https://doi.org/g9vjpn
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0167865525002533-gr2_lrg.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.48550/arXiv.2501.04268
+  title: 'Robotic Programmer: Video Instructed Policy Code Generation for Robotic
+    Manipulation'
+  authors:
+  - Senwei Xie
+  - Hongyu Wang
+  - Zhanqi Xiao
+  - Ruiping Wang
+  - Xilin Chen
+  publisher: arXiv
+  date: '2025-01-01'
+  link: https://doi.org/g9vjth
+  image: https://video2code.github.io/RoboPro-website/static/images/RoboPro_struct.png
   plugin: sources.py
   file: sources.yaml
 - id: 10.1007/s11263-025-02499-z
@@ -75,6 +91,7 @@
   publisher: Pattern Recognition
   date: '2024-12-01'
   link: https://doi.org/g9vjpq
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S003132032400459X-gr1_lrg.jpg
   plugin: sources.py
   file: sources.yaml
 - id: 10.48550/arXiv.2411.11839
@@ -92,6 +109,20 @@
   publisher: arXiv
   date: '2024-01-01'
   link: https://doi.org/g9vjpr
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1109/TIP.2024.3358726
+  title: "Event Graph Guided Compositional Spatial\u2013Temporal Reasoning for Video\
+    \ Question Answering"
+  authors:
+  - Ziyi Bai
+  - Ruiping Wang
+  - Difei Gao
+  - Xilin Chen
+  publisher: IEEE Transactions on Image Processing
+  date: '2024-01-01'
+  link: https://doi.org/g9vjtj
+  image: images/wang1-3358726-large.jpg
   plugin: sources.py
   file: sources.yaml
 - id: 10.1145/3664647.3680818
@@ -120,6 +151,24 @@
   publisher: arXiv
   date: '2024-01-01'
   link: https://doi.org/g9vjpt
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.48550/arXiv.2405.15638
+  title: 'M4U: Evaluating Multilingual Understanding and Reasoning for Large Multimodal
+    Models'
+  authors:
+  - Hongyu Wang
+  - Jiayu Xu
+  - Senwei Xie
+  - Ruiping Wang
+  - Jialin Li
+  - Zhaojie Xie
+  - Bin Zhang
+  - Chuyan Xiong
+  - Xilin Chen
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/g9vjtk
   plugin: sources.py
   file: sources.yaml
 - id: 10.1007/978-3-031-73033-7_25
@@ -158,5 +207,45 @@
   publisher: arXiv
   date: '2024-01-01'
   link: https://doi.org/g9vjpx
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1016/j.patcog.2024.110383
+  title: 'Introspective GAN: Learning to grow a GAN for incremental generation and
+    classification'
+  authors:
+  - Chen He
+  - Ruiping Wang
+  - Shiguang Shan
+  - Xilin Chen
+  publisher: Pattern Recognition
+  date: '2024-07-01'
+  link: https://doi.org/g9vjtm
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0031320324001341-gr1_lrg.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1609/aaai.v38i4.28088
+  title: 'Point2Real: Bridging the Gap between Point Cloud and Realistic Image for
+    Open-World 3D Recognition'
+  authors:
+  - Hanxuan Li
+  - Bin Fu
+  - Ruiping Wang
+  - Xilin Chen
+  publisher: Proceedings of the AAAI Conference on Artificial Intelligence
+  date: '2024-03-24'
+  link: https://doi.org/g9vjtn
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1007/s11263-023-01817-7
+  title: 'Importance First: Generating Scene Graph of Human Interest'
+  authors:
+  - Wenbin Wang
+  - Ruiping Wang
+  - Shiguang Shan
+  - Xilin Chen
+  publisher: International Journal of Computer Vision
+  date: '2023-06-09'
+  link: https://doi.org/g4nc8t
+  image: images/Scene-graphs-right-column-of-two-images-with-different-major-events-generated-by.jpg
   plugin: sources.py
   file: sources.yaml
