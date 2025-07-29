@@ -1,5 +1,17 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: 10.1016/j.patrec.2025.07.001
+  title: Cross-Domain Few-Shot 3D Point Cloud Semantic Segmentation
+  authors:
+  - Jiwei Xiao
+  - Ruiping Wang
+  - Chen He
+  - Xilin Chen
+  publisher: Pattern Recognition Letters
+  date: '2025-11-01'
+  link: https://doi.org/g9vjpn
+  plugin: sources.py
+  file: sources.yaml
 - id: 10.1007/s11263-025-02499-z
   title: Generic Scene Graph Generation Model with Hierarchical Prompt Learning
   authors:
@@ -27,6 +39,20 @@
   image: images/chen1-3557746-large.jpg
   plugin: sources.py
   file: sources.yaml
+- id: 10.48550/arXiv.2503.17733
+  title: 'GS-LTS: 3D Gaussian Splatting-Based Adaptive Modeling for Long-Term Service
+    Robots'
+  authors:
+  - Bin Fu
+  - Jialin Li
+  - Bin Zhang
+  - Ruiping Wang
+  - Xilin Chen
+  publisher: arXiv
+  date: '2025-01-01'
+  link: https://doi.org/g9vjpp
+  plugin: sources.py
+  file: sources.yaml
 - id: 10.1016/j.patrec.2025.01.015
   title: 'UniFa: A unified feature hallucination framework for any-shot object detection'
   authors:
@@ -37,5 +63,100 @@
   date: '2025-03-01'
   link: https://doi.org/g9tsjk
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0167865525000194-gr1_lrg.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1016/j.patcog.2024.110708
+  title: Local context attention learning for fine-grained scene graph generation
+  authors:
+  - Xuhan Zhu
+  - Ruiping Wang
+  - Xiangyuan Lan
+  - Yaowei Wang
+  publisher: Pattern Recognition
+  date: '2024-12-01'
+  link: https://doi.org/g9vjpq
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.48550/arXiv.2411.11839
+  title: 'RoboGSim: A Real2Sim2Real Robotic Gaussian Splatting Simulator'
+  authors:
+  - Xinhai Li
+  - Jialin Li
+  - Ziheng Zhang
+  - Rui Zhang
+  - Fan Jia
+  - Tiancai Wang
+  - Haoqiang Fan
+  - Kuo-Kun Tseng
+  - Ruiping Wang
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/g9vjpr
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1145/3664647.3680818
+  title: Calibration for Long-tailed Scene Graph Generation
+  authors:
+  - Xuhan Zhu
+  - Yifei Xing
+  - Ruiping Wang
+  - Yaowei Wang
+  - Xiangyuan Lan
+  publisher: Proceedings of the 32nd ACM International Conference on Multimedia
+  date: '2024-10-28'
+  link: https://doi.org/g9vjps
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.48550/arXiv.2410.05938
+  title: 'EMMA: Empowering Multi-modal Mamba with Structural and Hierarchical Alignment'
+  authors:
+  - Yifei Xing
+  - Xiangyuan Lan
+  - Ruiping Wang
+  - Dongmei Jiang
+  - Wenjun Huang
+  - Qingfang Zheng
+  - Yaowei Wang
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/g9vjpt
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1007/978-3-031-73033-7_25
+  title: "HiFi-Score: Fine-Grained Image Description Evaluation with\_Hierarchical\
+    \ Parsing Graphs"
+  authors:
+  - Ziwei Yao
+  - Ruiping Wang
+  - Xilin Chen
+  publisher: Lecture Notes in Computer Science
+  date: '2024-10-31'
+  link: https://doi.org/g9vjpv
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1007/978-3-031-73464-9_3
+  title: "Think Before Placement: Common Sense Enhanced Transformer for\_Object Placement"
+  authors:
+  - Yaxuan Qin
+  - Jiayu Xu
+  - Ruiping Wang
+  - Xilin Chen
+  publisher: Lecture Notes in Computer Science
+  date: '2024-12-04'
+  link: https://doi.org/g9vjpw
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.48550/arXiv.2409.01560
+  title: 'Blocks as Probes: Dissecting Categorization Ability of Large Multimodal
+    Models'
+  authors:
+  - Bin Fu
+  - Qiyang Wan
+  - Jialin Li
+  - Ruiping Wang
+  - Xilin Chen
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/g9vjpx
   plugin: sources.py
   file: sources.yaml
