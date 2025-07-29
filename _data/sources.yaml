@@ -1,7 +1,12 @@
 # CD-FS-SSeg
 - id: 10.1016/j.patrec.2025.07.001
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0167865525002533-gr2_lrg.jpg
 
-# 
+# RoboPro
+- id: 10.48550/arXiv.2501.04268
+  image: https://video2code.github.io/RoboPro-website/static/images/RoboPro_struct.png
+
+# GSSG
 - id: 10.1007/s11263-025-02499-z
   image: images/11263_2025_2499_Fig1_HTML.jpg
 
@@ -18,9 +23,14 @@
 
 # Fine-grained SGG
 - id: 10.1016/j.patcog.2024.110708
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S003132032400459X-gr1_lrg.jpg
 
 # RoboGSim
 - id: 10.48550/arXiv.2411.11839
+
+# HSTT
+- id: 10.1109/TIP.2024.3358726
+  image: images/wang1-3358726-large.jpg
 
 # cOC
 - id: 10.1145/3664647.3680818
@@ -28,11 +38,26 @@
 # EMMA
 - id: 10.48550/arXiv.2410.05938
 
-# HIFI-Score
+# M4U
+- id: 10.48550/arXiv.2405.15638
+
+# HiFi-Score
 - id: 10.1007/978-3-031-73033-7_25
 
 # CSENet
 - id: 10.1007/978-3-031-73464-9_3
 
-# 
+# XBlocks
 - id: 10.48550/arXiv.2409.01560
+
+# IntroGAN
+- id: 10.1016/j.patcog.2024.110383
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0031320324001341-gr1_lrg.jpg
+
+# Point2Real
+- id: 10.1609/aaai.v38i4.28088
+
+# HET
+- id: 10.1007/s11263-023-01817-7
+  image: images/Scene-graphs-right-column-of-two-images-with-different-major-events-generated-by.jpg
+
