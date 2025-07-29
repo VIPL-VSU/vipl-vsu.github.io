@@ -1,10 +1,9 @@
 ---
-name: John Doe
+name: Chen He
 image: images/photo.jpg
-role: phd
-group: alum
+role: Assistant Research Fellow / Post-doc
 links:
-  github: john-doe
+  github: tonypod
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
