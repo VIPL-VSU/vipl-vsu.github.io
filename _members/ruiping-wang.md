@@ -2,6 +2,7 @@
 name: Ruiping Wang
 image: images/photo.jpg
 role: principal-investigator
+description: Professor
 links:
   home-page: https://rpwang.net/
   orcid: 0000-0003-1830-2595
