@@ -1,7 +1,7 @@
 ---
 name: Chen He
 image: images/photo.jpg
-role: Assistant Research Fellow / Post-doc
+role: postdoc
 links:
   github: tonypod
 ---
