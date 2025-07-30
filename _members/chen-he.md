@@ -2,7 +2,9 @@
 name: Chen He
 image: images/photo.jpg
 role: postdoc
+description: continual learning
 links:
+  website: https://tonypod.com
   github: tonypod
 ---
 
