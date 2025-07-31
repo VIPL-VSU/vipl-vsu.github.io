@@ -11,11 +11,13 @@ Research topics of our group mainly cover three aspects: 1) Object recognition, 
 
 {% include section.html %}
 
+<!--
 ## Highlighted
 
 {% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
 
 {% include section.html %}
+-->
 
 ## All
 
