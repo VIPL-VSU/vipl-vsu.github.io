@@ -11,7 +11,7 @@ Our group focuses on comprehensive scene understanding to enable intelligent per
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Research topics of our group mainly cover three aspects: 1) Object recognition, 2) Scene understanding, and 3) Language/knowledge-based cognition.
 
 {%
   include button.html
@@ -26,7 +26,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/trinity.jpg"
   link="research"
   title="Our Research"
   text=text
