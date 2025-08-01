@@ -49,7 +49,7 @@ The datasets, systems, and other resources developed by our research group.
 
 {%
   include feature.html
-  image="images/vcd_lifelong.jpg"
+  image="images/cric.jpg"
   link="projects"
   title="Our Projects"
   flip=true
