@@ -18,3 +18,14 @@
   tags:
     - dataset
     - publication
+
+- title: ComBo
+  subtitle: Dissecting Categorization Ability of Large Multimodal Models
+  group: dataset
+  image: images/combo.png
+  link: https://fubin29.github.io/Blocks-as-Probes/
+  description: We build a large-scale repository of Composite Blocks by disentangling object attributes such as shape, material, color, and contact points. This results in 9,504 objects, each rendered from random viewpoints to create photorealistic images.
+  repo: FuBin29/Blocks-as-Probes
+  tags:
+    - dataset
+    - publication
