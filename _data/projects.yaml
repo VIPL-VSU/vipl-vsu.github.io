@@ -10,7 +10,7 @@
 
 - title: Env-QA
   subtitle: A Video QA Dataset for Dynamic Environments Understanding
-  group: featured
+  group: dataset
   image: images/envqa.jpg
   link: https://envqa.github.io/
   description: Visual understanding goes well beyond the study of images or videos on the web. Env-QA is a new video QA dataset to evaluate the ability of understanding the composition, layout, and state changes of the environment presented by the events in videos.
