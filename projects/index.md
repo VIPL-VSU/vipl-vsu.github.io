@@ -16,7 +16,7 @@ This page showcases the datasets, systems, and other resources developed by our 
 {% include section.html %}
 
 
-## Featured
+## Dataset
 
 {% include list.html component="card" data="projects" filter="group == 'dataset'" %}
 
