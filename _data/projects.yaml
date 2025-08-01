@@ -29,3 +29,25 @@
   tags:
     - dataset
     - publication
+
+- title: ParaEval
+  subtitle: A paragraph-level evaluation dataset for long texts
+  group: dataset
+  image: images/paraeval.png
+  link: https://github.com/lydia7632/HiFi-Score
+  description: At the paragraph level, we construct a novel dataset ParaEval and demonstrate the accuracy of our proposed HiFi-Score in evaluating long texts.
+  repo: lydia7632/HiFi-Score
+  tags:
+    - dataset
+    - publication
+
+- title: Large-scale synthetic point cloud datasets 
+  subtitle:
+  group: dataset
+  image: images/synthetic_3d.png
+  link: 
+  description: We simulate the process of human scanning and collecting point cloud data in real-world scenes and construct three large-scale synthetic point cloud datasets using synthetic scenes. The scale of these three datasets is more than ten times that of the currently available real-world data.
+  repo: 
+  tags:
+    - dataset
+    - publication
