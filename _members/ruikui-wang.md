@@ -1,6 +1,6 @@
 ---
 name: Ruikui Wang
-image: images/photo.jpg
+image: images/ruikui-wang.jpg
 role: alumni
 description: 2017 master student
 links:
