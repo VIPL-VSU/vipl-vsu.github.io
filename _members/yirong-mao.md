@@ -1,6 +1,6 @@
 ---
 name: Yirong Mao
-image: images/photo.jpg
+image: images/yirong-mao.jpg
 role: alumni
 description: 2016 master student
 links:
