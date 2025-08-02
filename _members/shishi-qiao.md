@@ -1,6 +1,6 @@
 ---
 name: Shishi Qiao
-image: images/photo.jpg
+image: images/shishi-qiao.jpg
 role: alumni
 description: 2014 PhD student
 links:
