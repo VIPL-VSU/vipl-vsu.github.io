@@ -1,6 +1,6 @@
 ---
 name: Yong Liu
-image: images/photo.jpg
+image: images/yong-liu.jpg
 role: alumni
 description: 2015 master student
 links:
