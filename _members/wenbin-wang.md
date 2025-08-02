@@ -1,6 +1,6 @@
 ---
 name: Wenbin Wang
-image: images/photo.jpg
+image: images/wenbin-wang.jpg
 role: alumni
 description: 2017 PhD student
 links:
