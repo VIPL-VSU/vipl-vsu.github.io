@@ -1,6 +1,6 @@
 ---
 name: Bin Zhang
-image: images/photo.jpg
+image: images/bin-zhang.jpg
 role: phd
 description: 2023 master student
 links:
