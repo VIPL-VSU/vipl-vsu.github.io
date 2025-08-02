@@ -1,6 +1,6 @@
 ---
 name: Senwei Xie
-image: images/photo.jpg
+image: images/senwei-xie.jpg
 role: phd
 description: 2023 PhD student
 links:
