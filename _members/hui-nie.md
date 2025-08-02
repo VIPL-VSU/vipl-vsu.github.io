@@ -1,6 +1,6 @@
 ---
 name: Hui Nie
-image: images/photo.jpg
+image: images/hui-nie.jpg
 role: alumni
 description: 2018 PhD student
 links:
