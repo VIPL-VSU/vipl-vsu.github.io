@@ -1,6 +1,6 @@
 ---
 name: Bin Fu
-image: images/photo.jpg
+image: images/bin-fu.jpg
 role: phd
 description: 2021 PhD student
 links:
