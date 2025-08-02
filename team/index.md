@@ -27,7 +27,7 @@ The current members of our research group.
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/mmexport1754108074984.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
 
