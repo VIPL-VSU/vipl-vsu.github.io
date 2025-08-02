@@ -2,6 +2,7 @@
 name: Qiyan Wan
 image: images/photo.jpg
 role: phd
+description: 2019 PhD student
 links:
   website: https://qiya.ng
   github: WanQiyang
