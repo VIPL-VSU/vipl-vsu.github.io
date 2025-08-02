@@ -1,6 +1,6 @@
 ---
 name: Chuyan Xiong
-image: images/photo.jpg
+image: images/chuyan-xiong.jpg
 role: phd
 description: 2024 PhD student
 links:
