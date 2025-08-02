@@ -1,6 +1,6 @@
 ---
 name: Ruiping Wang
-image: images/photo.jpg
+image: images/ruiping-wang.jpg
 role: principal-investigator
 description: Professor
 links:
