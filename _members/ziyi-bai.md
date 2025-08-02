@@ -1,6 +1,6 @@
 ---
 name: Ziyi Bai
-image: images/ziyi-bai.jpg
+image: images/ziyi-bai.png
 role: alumni
 description: 2019 PhD student
 links:
