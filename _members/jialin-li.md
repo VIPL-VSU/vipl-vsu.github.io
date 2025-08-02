@@ -1,6 +1,6 @@
 ---
 name: Jialin Li
-image: images/photo.jpg
+image: images/jialin-li.jpg
 role: master
 description: 2024 master student
 links:
