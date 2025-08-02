@@ -1,6 +1,6 @@
 ---
 name: Qiyan Wan
-image: images/photo.jpg
+image: images/qiyang-wan.jpg
 role: phd
 description: 2019 PhD student
 links:
