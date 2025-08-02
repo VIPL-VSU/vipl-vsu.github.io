@@ -1,6 +1,6 @@
 ---
 name: Fengyuan Yang
-image: images/photo.jpg
+image: images/fengyuan-yang.jpg
 role: alumni
 description: 2019 master student
 links:
