@@ -1,6 +1,6 @@
 ---
 name: Sijin Wang
-image: images/photo.jpg
+image: images/sijin-wang.jpg
 role: alumni
 description: 2017 master student
 links:
