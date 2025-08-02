@@ -1,6 +1,6 @@
 ---
 name: Zeyuan Lin
-image: images/zeyuan-lin.jpg
+image: images/zeyuan-lin.jpeg
 role: master
 description: 2024 master student
 links:
