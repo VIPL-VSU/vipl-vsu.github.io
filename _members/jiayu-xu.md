@@ -1,6 +1,6 @@
 ---
 name: Jiayu Xu
-image: images/photo.jpg
+image: images/jiayu-xu.jpg
 role: alumni
 description: 2022 master student
 links:
