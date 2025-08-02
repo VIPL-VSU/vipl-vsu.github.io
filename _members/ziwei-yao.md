@@ -1,6 +1,6 @@
 ---
 name: Ziwei Yao
-image: images/photo.jpg
+image: images/ziwei-yao.jpg
 role: phd
 description: 2019 PhD student
 links:
