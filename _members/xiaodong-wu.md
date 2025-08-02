@@ -1,6 +1,6 @@
 ---
 name: Xiaodong Wu
-image: images/photo.jpg
+image: images/xiaodong-wu.jpg
 role: alumni
 description: 2018 PhD student
 links:
