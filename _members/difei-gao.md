@@ -1,6 +1,6 @@
 ---
 name: Difei Gao
-image: images/photo.jpg
+image: images/difei-gao.jpg
 role: alumni
 description: 2015 PhD student
 links:
