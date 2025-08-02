@@ -1,6 +1,6 @@
 ---
 name: Yifan Zhang
-image: images/photo.jpg
+image: images/yifan-zhang.jpg
 role: phd
 description: 2021 PhD student
 links:
