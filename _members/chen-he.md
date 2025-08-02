@@ -1,6 +1,6 @@
 ---
 name: Chen He
-image: images/photo.jpg
+image: images/chen-he.jpg
 role: postdoc
 description: Assistant Research Fellow / Post-doc
 links:
