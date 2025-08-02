@@ -1,6 +1,6 @@
 ---
 name: Hanxuan Li
-image: images/photo.jpg
+image: images/hanxuan-li.jpg
 role: phd
 description: 2021 PhD student
 links:
