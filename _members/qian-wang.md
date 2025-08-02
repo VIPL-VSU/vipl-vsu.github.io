@@ -1,6 +1,6 @@
 ---
 name: Qian Wang
-image: images/photo.jpg
+image: images/qian-wang.jpg
 role: master
 description: 2025 master student
 links:
