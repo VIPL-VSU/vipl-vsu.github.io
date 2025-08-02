@@ -1,6 +1,6 @@
 ---
 name: Jingmeng Liu
-image: images/photo.jpg
+image: images/jingmeng-liu.jpg
 description: Engineer
 role: programmer
 links:
