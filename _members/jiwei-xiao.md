@@ -1,6 +1,6 @@
 ---
 name: Jiwei Xiao
-image: images/photo.jpg
+image: images/jiwei-xiao.jpg
 role: phd
 description: 2019 PhD student
 links:
