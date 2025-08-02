@@ -1,6 +1,6 @@
 ---
 name: Mingquan Zhou
-image: images/photo.jpg
+image: images/mingquan-zhou.jpg
 role: phd
 description: 2023 PhD student
 links:
