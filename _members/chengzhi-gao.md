@@ -1,6 +1,6 @@
 ---
 name: Chengzhi Gao
-image: images/photo.jpg
+image: images/chengzhi-gao.jpg
 role: master
 description: 2023 master student
 links:
