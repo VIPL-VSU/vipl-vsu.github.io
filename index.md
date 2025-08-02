@@ -74,7 +74,7 @@ The current members and alumni of our research group.
 
 {%
   include feature.html
-    image="images/mmexport1754108074984.jpg"
+  image="images/mmexport1754108074984.jpg"
   link="team"
   title="Our Team"
   text=text
