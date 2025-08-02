@@ -1,6 +1,6 @@
 ---
 name: Zhanqi Xiao
-image: images/photo.jpg
+image: images/zhanqi-xiao.jpg
 role: phd
 description: 2023 PhD student
 links:
