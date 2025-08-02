@@ -1,6 +1,6 @@
 ---
 name: Yuntian Zhang
-image: images/photo.jpg
+image: images/yuntian-zhang.jpg
 role: phd
 description: 2025 PhD student
 links:
