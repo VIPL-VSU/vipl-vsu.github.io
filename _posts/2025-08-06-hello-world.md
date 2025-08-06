@@ -2,7 +2,7 @@
 title: Hello World
 image: images/photo.jpg
 author: chen-he
-tags: biology, medicine
+tags: news
 ---
 
 Welcome to the official blog of the VIPL-VSU Research Group!
