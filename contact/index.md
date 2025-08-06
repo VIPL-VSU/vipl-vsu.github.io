@@ -9,6 +9,8 @@ nav:
 
 VIPL-VSU group belongs to the Visual Information Processing and Learning (VIPL) research group, affiliated with Intelligent Information Processing, Institute of Computing Technology, CAS.
 
+Whether you're a prospective student, collaborator, or just curious about our work — feel free to reach out!
+
 {%
   include button.html
   type="address"
