@@ -30,7 +30,7 @@ We are a diverse and dynamic group of researchers driven by curiosity and collab
 # {% include icon.html icon="fa-solid fa-users" %}Group Photos
 
 {% include figure.html image="images/mmexport1754108074984.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/group_dinner.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
 
 {% endcapture %}
